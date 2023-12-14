@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 namespace GitExercise.Models
 {
     internal class User
+
     { public int ID { get; set;}
+
+
+
     }
 }
